@@ -18,7 +18,7 @@ class IO_2 {
        output = new ByteArrayOutputStream();
 
        input.read(temp, 0, temp.length); // 읽어온 데이터를 배열에 담는다.
-       output.write(temp, 5, 5); // temp[5]로부터 5개의 데이터를 write한다. 
+       output.write(temp, 5, 5); // temp[5]로부터 5개의 데이터를 write한다.  
 
        outSrc = output.toByteArray(); // 스트림 배열 byte배열로 반환 
 

@@ -12,7 +12,7 @@ class IO_1 {
 
        ByteArrayInputStream input = null;
        ByteArrayOutputStream output = null;
-
+  
        input = new ByteArrayInputStream(inSrc);
        output = new ByteArrayOutputStream();
 

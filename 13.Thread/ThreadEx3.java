@@ -13,7 +13,7 @@ class ThreadEx3_1 extends Thread {
     public void throwException() {
         try {
             throw new Exception();
-        } catch (Exception e) {
+        } catch (Exception e) { 
             e.printStackTrace();
         }
     }

@@ -15,6 +15,6 @@ class ThreadEx2_1 extends Thread {
             throwException();
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        } 
     }
 }
