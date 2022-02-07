@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "15. I/O",
+        "15. I",
         "13.Thread",
-        "15. I/O"
+        "15. 입출력"
     ]
 }
