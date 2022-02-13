@@ -1,4 +1,4 @@
-import java.io.*;
+import java.io.FileOutputStream;
 
 public class BufferedOutputStream {
     public BufferedOutputStream(FileOutputStream fos) {
